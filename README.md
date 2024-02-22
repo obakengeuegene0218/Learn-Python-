@@ -18,7 +18,7 @@ This repository is my digital playground as I dive into the fascinating world of
 - `Resources/`: Curated collection of the best resources, tutorials, and references I've found useful.
 
 
-#Progress 
+## Progress 
 
 ### so far this is what I have learned with using the python language
 - `Syntax/`: Python syntax is clear and easy to understand, making it suitable for beginners. It uses indentation to define code blocks, rather than curly braces or keywords like "end" as in some other languages.
