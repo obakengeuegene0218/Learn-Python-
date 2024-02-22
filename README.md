@@ -23,7 +23,7 @@ This repository is my digital playground as I dive into the fascinating world of
 ### so far this is what I have learned with using the python language
 - `Syntax/`: Python syntax is clear and easy to understand, making it suitable for beginners. It uses indentation to define code blocks, rather than curly braces or keywords like "end" as in some other languages.
 
--` Variables and Data Types/`: Variables are used to store data values. Python supports various data types including integers, floats, strings, lists, tuples, dictionaries, and more.
+- ` Variables and Data Types/`: Variables are used to store data values. Python supports various data types including integers, floats, strings, lists, tuples, dictionaries, and more.
 
 - `Control Structures/`: Python provides control structures such as if statements, loops (for and while loops), and conditional statements (if, elif, else) to control the flow of the program.
 
